@@ -12,6 +12,7 @@ A list of Plugins, themes, tips n tricks, help articles around PipraPay Payment 
 
 ### All Plugins (Official & Contributed)
 - Contributed
+    - [Customizable Payment Link Generator for PipraPay](https://github.com/refatbd/customizable-payment-link-generator)
     - [Telegram Bot Notification Pro](https://github.com/refatbd/PipraPay-bot-notification-pro)
     - [FX Rate Sync](https://github.com/fattain-naime/currency-rate-auto-update)
     - [Import Payment Data From UddoktaPay](https://github.com/NabilNewaz/transactions-import-uddoktapay-for-piprapay)
